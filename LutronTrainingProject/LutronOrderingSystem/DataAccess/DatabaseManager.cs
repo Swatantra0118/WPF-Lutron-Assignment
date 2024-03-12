@@ -11,7 +11,7 @@ namespace LutronOrderingSystem.DataAccess
 {
     public class DatabaseManager
     {
-        private string connectionString = "Server=IN-FB6XTN3;Database=LutronOrderingSystemDatabase;Trusted_Connection=True;TrustServerCertificate=True";
+        private string connectionString = "Server=LAPTOP-T9N19SC1\\SQLEXPRESS;Database=LutronOrderingSystemDatabase;Trusted_Connection=True;TrustServerCertificate=True";
         public DataTable GetProducts()
         {
             DataTable dataTable = new DataTable();
