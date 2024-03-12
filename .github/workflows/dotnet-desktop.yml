@@ -26,7 +26,7 @@ jobs:
       - name: Restore dependencies
         run: LutronTrainingProject/LutronTrainingProject.sln
       - name: Run unit tests
-        run: 'vstest.console.exe LutronTrainingProject/LutronOrderingSystem.Tests/bin/Debug/LutronOrderingSystem.Tests.dll /logger:trx'
+        run: dotnet test LutronTrainingProject/LutronOrderingSystem.Tests/LutronOrderingSystem.Tests.csproj --configuration Release --logger trx
   deploy:
     runs-on: windows-latest
     needs:
