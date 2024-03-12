@@ -1,4 +1,40 @@
-name: CI/CD Workflow for WPF Application
+name: CI/CD Workflow for Swatantra Branch
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 4.7.2
+      - name: Restore dependencies
+        run: dotnet restore
+      - name: Build the application
+        run: dotnet build --configuration Release
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 4.7.2
+      - name: Restore dependencies
+        run: dotnet restore
+      - name: Run unit tests
+        run: dotnet test
+  deploy:
+    runs-on: ubuntu-latest
+    needs:
+      - build
+      - test
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2name: CI/CD Workflow for WPF Application
 
 on: push
 
