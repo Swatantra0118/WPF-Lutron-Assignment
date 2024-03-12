@@ -11,7 +11,7 @@ jobs:
         with:
           dotnet-version: '5.0.x'
       - name: Restore dependencies
-        run: nuget restore LutronTrainingProject.sln
+        run: nuget restore LutronTrainingProject/LutronTrainingProject.sln
       - name: Build the application
         run: 'msbuild /p:Configuration=Release LutronTrainingProject.sln'
   test:
