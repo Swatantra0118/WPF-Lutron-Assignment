@@ -1,0 +1,85 @@
+name: CI/CD Workflow for Swatantra Branch
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 4.7.2
+      - name: Restore dependencies
+        run: dotnet restore
+      - name: Build the application
+        run: dotnet build --configuration Release
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 4.7.2
+      - name: Restore dependencies
+        run: dotnet restore
+      - name: Run unit tests
+        run: dotnet test
+  deploy:
+    runs-on: ubuntu-latest
+    needs:
+      - build
+      - test
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2name: CI/CD Workflow for WPF Application
+
+on: push
+
+jobs:
+  build:
+    runs-on: windows-latest  
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup .NET Framework SDK
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '4.7.2'  
+
+    - name: Restore dependencies
+      run: nuget restore LutronTrainingProject.sln  
+
+    - name: Build the application
+      run: msbuild /p:Configuration=Release LutronTrainingProject.sln  
+
+  test:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup .NET Framework SDK
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '4.8'
+
+    - name: Restore dependencies
+      run: nuget restore LutronTrainingProject.sln
+
+    - name: Run unit tests
+      run: vstest.console.exe LutronOrderingSystem.Tests.dll /logger:trx  # Replace 'YourTestProject.dll' with your test project DLL name
+
+  deploy:
+    runs-on: windows-latest
+
+    needs: [build, test]
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
