@@ -80,8 +80,6 @@
     <Compile Include="DataAccess\DatabaseInitializer.cs" />
     <Compile Include="DataAccess\DatabaseManager.cs" />
     <Compile Include="Models\ProductModel.cs" />
-    <Compile Include="ViewModels\ControlStationsViewModel.cs" />
-    <Compile Include="ViewModels\EnclosuresViewModel.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
