@@ -81,14 +81,10 @@ C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProje
 C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
 C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.AssemblyReference.cache
 C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\MainWindow.g.cs
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.g.cs
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.g.cs
 C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.g.cs
 C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.cache
 C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.lref
 C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\MainWindow.baml
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.baml
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.baml
 C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.g.resources
 C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.Properties.Resources.resources
 C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.GenerateResource.cache

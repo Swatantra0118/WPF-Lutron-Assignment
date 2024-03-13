@@ -80,8 +80,6 @@
     <Compile Include="DataAccess\DatabaseInitializer.cs" />
     <Compile Include="DataAccess\DatabaseManager.cs" />
     <Compile Include="Models\ProductModel.cs" />
-    <Compile Include="ViewModels\ControlStationsViewModel.cs" />
-    <Compile Include="ViewModels\EnclosuresViewModel.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -124,6 +122,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="ViewModels\" />
     <Folder Include="Views\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
