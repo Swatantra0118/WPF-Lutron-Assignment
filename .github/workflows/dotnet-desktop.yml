@@ -12,10 +12,10 @@ jobs:
           dotnet-version: '7.0.304'
       - name: Restore dependencies
         run: nuget restore LutronTrainingProject/LutronTrainingProject.sln
-      - name: Build the application
-        run: dotnet msbuild LutronTrainingProject/LutronOrderingSystem/LutronOrderingSystem.csproj /t:Rebuild /p:Configuration=Release
      # - name: Build the application
-       # run: dotnet build LutronTrainingProject/LutronOrderingSystem/LutronOrderingSystem.csproj --configuration Release
+      #  run: dotnet msbuild LutronTrainingProject/LutronOrderingSystem/LutronOrderingSystem.csproj /t:Rebuild /p:Configuration=Release
+      - name: Build the application
+        run: dotnet build LutronTrainingProject/LutronOrderingSystem/LutronOrderingSystem.csproj --configuration Release
   test:
     runs-on: windows-latest
     steps:
