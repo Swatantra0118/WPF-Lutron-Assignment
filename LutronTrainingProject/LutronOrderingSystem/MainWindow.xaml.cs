@@ -22,7 +22,7 @@ namespace LutronOrderingSystem
     {
         public MainWindow()
         {
-            //InitializeComponent();
+            InitializeComponent();
         }
     }
 }
