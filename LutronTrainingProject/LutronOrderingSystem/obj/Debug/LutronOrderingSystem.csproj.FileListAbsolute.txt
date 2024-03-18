@@ -64,31 +64,212 @@ C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\LutronAssignment\Lutron-Trai
 C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\LutronAssignment\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CopyComplete
 C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\LutronAssignment\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.exe
 C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\LutronAssignment\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.pdb
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe.config
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.pdb
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.dll
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.dll
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.dll
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.pdb
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.xml
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.pdb
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.xml
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.pdb
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.xml
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.AssemblyReference.cache
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\MainWindow.g.cs
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.g.cs
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.cache
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.lref
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\MainWindow.baml
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.g.resources
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.Properties.Resources.resources
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.GenerateResource.cache
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CoreCompileInputs.cache
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CopyComplete
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.exe
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.pdb
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe.config
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.pdb
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.dll
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.pdb
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.xml
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.pdb
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.pdb
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.AssemblyReference.cache
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.g.cs
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.g.cs
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.g.cs
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.cache
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.lref
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.baml
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.baml
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.g.resources
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.Properties.Resources.resources
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.GenerateResource.cache
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CopyComplete
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.exe
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.pdb
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ProductsView.g.cs
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.baml
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ProductsView.baml
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\AddProductView.g.cs
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EditProductView.g.cs
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\AddProductView.baml
+C:\Users\tannuverma\Desktop\Lutron2\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EditProductView.baml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe.config
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.pdb
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.dll
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.pdb
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.xml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.pdb
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.pdb
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.AssemblyReference.cache
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\AddProductView.g.cs
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.g.cs
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EditProductView.g.cs
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.g.cs
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ProductsView.g.cs
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.g.cs
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.cache
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.lref
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.baml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\AddProductView.baml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.baml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EditProductView.baml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.baml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ProductsView.baml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.g.resources
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.Properties.Resources.resources
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.GenerateResource.cache
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CopyComplete
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.exe
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.pdb
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CartWindowView.g.cs
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CartWindowView.baml
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CheckoutConfirmationView.g.cs
+C:\Users\talhakhan\Downloads\getagain\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CheckoutConfirmationView.baml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe.config
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.pdb
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.dll
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.pdb
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.xml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.pdb
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.pdb
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.AssemblyReference.cache
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\AddProductView.g.cs
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CartWindowView.g.cs
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CheckoutConfirmationView.g.cs
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.g.cs
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EditProductView.g.cs
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.g.cs
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ProductsView.g.cs
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.g.cs
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.cache
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.lref
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.baml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\AddProductView.baml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CartWindowView.baml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CheckoutConfirmationView.baml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.baml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EditProductView.baml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.baml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ProductsView.baml
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.g.resources
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.Properties.Resources.resources
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.GenerateResource.cache
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CopyComplete
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.exe
+C:\Users\swata\Desktop\Lutron\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.pdb
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe.config
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.pdb
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.dll
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.pdb
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.xml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.pdb
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.pdb
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.AssemblyReference.cache
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\AddProductView.g.cs
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CartWindowView.g.cs
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CheckoutConfirmationView.g.cs
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.g.cs
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EditProductView.g.cs
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.g.cs
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ProductsView.g.cs
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.g.cs
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.cache
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.lref
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.baml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\AddProductView.baml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CartWindowView.baml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CheckoutConfirmationView.baml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.baml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EditProductView.baml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.baml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ProductsView.baml
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.g.resources
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.Properties.Resources.resources
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.GenerateResource.cache
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CopyComplete
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.exe
+C:\Users\tannuverma\Desktop\LutronFinal\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.pdb
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe.config
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.exe
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\LutronOrderingSystem.pdb
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.dll
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.pdb
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Core.xml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.pdb
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.pdb
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.AssemblyReference.cache
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\AddProductView.g.cs
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CartWindowView.g.cs
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CheckoutConfirmationView.g.cs
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.g.cs
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EditProductView.g.cs
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.g.cs
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ProductsView.g.cs
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.g.cs
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.cache
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem_MarkupCompile.lref
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\App.baml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\AddProductView.baml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CartWindowView.baml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\CheckoutConfirmationView.baml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ControlStationsView.baml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EditProductView.baml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\EnclosuresView.baml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\Views\ProductsView.baml
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.g.resources
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.Properties.Resources.resources
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.GenerateResource.cache
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.csproj.CopyComplete
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.exe
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\LutronOrderingSystem.pdb

@@ -1,0 +1,59 @@
+﻿<Window x:Class="LutronOrderingSystem.Views.AddProductView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewmodels="clr-namespace:LutronOrderingSystem.ViewModels"
+        xmlns:helper="clr-namespace:LutronOrderingSystem.Helpers"
+        xmlns:local="clr-namespace:LutronOrderingSystem.Views"
+        mc:Ignorable="d"
+        Title="Add New Device" Height="450" Width="800">
+    <Window.Resources>
+        <viewmodels:ProductsViewModel x:Key="productsViewModel"/>
+        <helper:CategoryToVisibilityConverter x:Key="CategoryToVisibilityConverter"/>
+        <helper:CategoryConverter x:Key="CategoryConverter"/>
+    </Window.Resources>
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Model Display String:" Margin="0,0,0,5" />
+            <TextBox Text="{Binding Product.ModelDisplayString, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,15" />
+
+            <TextBlock Text="Description:" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding Product.Description, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,15" />
+
+            <TextBlock Text="Category:" Margin="0,0,0,5"/>
+            <ComboBox SelectedItem="{Binding Product.Category, UpdateSourceTrigger=PropertyChanged}"
+                      ItemsSource="{Binding ProductCategoryValues, Source={StaticResource productsViewModel}}" Margin="0,0,0,15"/>
+
+
+            <!--<TextBlock Text="Number of Buttons:" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding Product.NumberOfButtons, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay, TargetNullValue=''}" Margin="0,0,0,15" />-->
+            <TextBlock Text="Number of Buttons:" Margin="0,0,0,5"
+                       Visibility="{Binding Product.Category, Converter={StaticResource CategoryToVisibilityConverter}}">
+            </TextBlock>
+            <TextBox Text="{Binding Product.NumberOfButtons, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay, TargetNullValue=''}"
+                     Margin="0,0,0,15"
+                     Visibility="{Binding Product.Category, Converter={StaticResource CategoryToVisibilityConverter}}">
+            </TextBox>
+
+            <!--<TextBlock Text="Mount Type:" Margin="0,0,0,5"/>
+            <ComboBox SelectedItem="{Binding Product.MountType, UpdateSourceTrigger=PropertyChanged}"
+                      ItemsSource="{Binding MountTypeValues, Source={StaticResource productsViewModel}}" Margin="0,0,0,15"/>-->
+
+            <TextBlock Text="Mount Type:" Margin="0,0,0,5"
+                       Visibility="{Binding Product.Category, Converter={StaticResource CategoryConverter}}">
+            </TextBlock>
+            <ComboBox SelectedItem="{Binding Product.MountType, UpdateSourceTrigger=PropertyChanged}"
+                      ItemsSource="{Binding MountTypeValues, Source={StaticResource productsViewModel}}" Margin="0,0,0,15"
+                      Visibility="{Binding Product.Category, Converter={StaticResource CategoryConverter}}">
+            </ComboBox>
+
+            <TextBlock Text="Quantity:" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding Product.Quantity, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay, TargetNullValue=''}" Margin="0,0,0,15"/>
+
+            <StackPanel>
+                <Button Content="Add" x:Name="AddProductAsync" HorizontalAlignment="Center" Margin="0,10,0,0" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

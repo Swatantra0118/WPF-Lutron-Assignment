@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\obj\Debug\
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\obj\Debug\
 LutronOrderingSystem
 none
 false
 DEBUG;TRACE
-C:\Users\swata\Desktop\Lutron-Training\WPF-Lutron-Assignment\LutronTrainingProject\LutronOrderingSystem\App.xaml
-1219584333
+C:\Users\swatantratiwari\OneDrive - Nagarro\Desktop\FinalLutonDemo\Lutron-Training\LutronTrainingProject\LutronOrderingSystem\App.xaml
+7-1179029134
 
-10-411965440
-20-1812868120
-MainWindow.xaml;
+28-28538623
+20-742055766
+Views\AddProductView.xaml;Views\CartWindowView.xaml;Views\CheckoutConfirmationView.xaml;Views\ControlStationsView.xaml;Views\EditProductView.xaml;Views\EnclosuresView.xaml;Views\ProductsView.xaml;
 
-True
+False
 
